@@ -1,0 +1,17 @@
+# credenciales — NUNCA subir
+.dune_key
+.coinalyze_key
+
+# caches de datos (GBs, regenerables)
+.cache_1h/
+.cache_15m/
+.cache_binance/
+.cache_coinalyze/
+.aggtrades/
+recorder/
+
+# generados / temporales
+__pycache__/
+*.log
+senales.html
+smoke*.csv
